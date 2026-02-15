@@ -168,6 +168,6 @@ This repo is intentionally safe by design:
 Backend & API Integration Specialist · Payments · Automation ·
 UX/UI-minded Engineer
 
--   🌐 Website: https://roberlopez.com\
--   💻 GitHub: https://github.com/kirito18\
+-   🌐 Website: https://roberlopez.com
+-   💻 GitHub: https://github.com/kirito18
 -   🔗 LinkedIn: https://www.linkedin.com/in/web-rober-lopez/
