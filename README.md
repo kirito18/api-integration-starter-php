@@ -24,15 +24,13 @@ demo endpoints.
 
 ## 🧭 Architecture (High Level)
 
-``` mermaid
 flowchart LR
-  A[Client / Postman] -->|HTTP| B[public/index.php Router]
-  B --> C[Config (.env)]
-  B --> D[Logger (JSON logs)]
-  B --> E[HttpClient (cURL)]
-  E --> F[External API]
-  D --> G[(storage/logs/app.log)]
-```
+  A["Client / Postman"] -->|HTTP| B["public/index.php Router"]
+  B --> C["Config - .env"]
+  B --> D["Logger - JSON logs"]
+  B --> E["HttpClient - cURL"]
+  E --> F["External API"]
+  D --> G["storage/logs/app.log"]
 
 ------------------------------------------------------------------------
 
